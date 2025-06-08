@@ -1,7 +1,17 @@
-# 📝 Quiz de Programación
+# 🛠️ Quiz de Programación
 
 ## 🚀 Descripción
 Quiz interactivo de programación desarrollado con **HTML, CSS, Bootstrap y JavaScript**. Contiene preguntas de opción múltiple con puntuación.
+
+## 📝 Estudiantes con los que trabajamos
+
+| Equipo 8                      |
+|-------------------------------|
+| Diego Alejandro Guadrón Reyes |
+| Samuel Ismael Pacheco Guevara |
+| Erick Francisco Magaña Ramos  |
+| Angel Eduardo Moreno Escobar  |
+| Marvin Josué Solórzano Cruz   |
 
 ### 🔥 Características
 - ✅ Interfaz responsive con Bootstrap 5
