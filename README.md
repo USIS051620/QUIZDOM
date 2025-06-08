@@ -25,6 +25,6 @@ Quiz interactivo de programación desarrollado con **HTML, CSS, Bootstrap y Java
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 🌐 Enlace al proyecto:
-[🔗 Ver proyecto en Netlify](https://carts-carrito.netlify.app/)
+[🔗 Ver proyecto en Netlify](https://vermillion-faun-8b159c.netlify.app/)
 ---
 
